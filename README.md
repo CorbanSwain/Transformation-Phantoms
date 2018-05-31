@@ -3,8 +3,8 @@
 different people or methods.* `Coordinate systems = 🙃`
 
 ## Description
-The phantom volumes cubes containing three orthoganl arrows corresponding to the rows (1), columns (2), and 
-pages (3) representative of MATLAB's indexing style. 
+The phantom volumes are cubes containing three orthoganl arrows corresponding to the 
+rows (1), columns (2), and pages (3) of the volume representative of MATLAB's indexing style. 
 * The arrows point in the direction of increasing index. 
 * Each of the arrows are 'annotated' with spherical beads: 
   * the row axis arrow is annotated with 1 bead, 
