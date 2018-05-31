@@ -12,6 +12,6 @@ pages (3) representative of MATLAB's indexing style.
   * the pages axis arrow is annotated with 3 beads.
 
 ## Files
-Simple phantom volume in both .tif and .mat formats.
+Simple 100 X 100 X 100 pixel volume in both .tif and .mat formats.
 1. `axis_phantom.tif` is an 8 bit grayscale image
 1. `axis_phantom.mat is` contains a logical matrix named `A`
