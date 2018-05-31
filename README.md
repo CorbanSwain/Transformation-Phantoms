@@ -1,14 +1,10 @@
 # Transformation Reference Images
 *To be used in comparing rotation and translation operations performed by 
-different people or methods.* `Coordinate systems = 🙃`
+different people or methods. ... because* `Coordinate systems = 🙃`
 
-## Images
-### 3D Rendering
-![Demo 1](/demos/demo_1.gif)
-
-### Stepping through x-y slices (pages)
-![Demo 2](/demos/demo_2.gif)
-
+<p align="center">
+  <img width="512" height="512" src="/demos/demo_1.gif">
+</p>
 
 ## Description
 The phantom volumes are cubes containing three orthoganl arrows corresponding to the 
