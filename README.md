@@ -2,6 +2,14 @@
 *To be used in comparing rotation and translation operations performed by 
 different people or methods.* `Coordinate systems = 🙃`
 
+## Images
+### 3D Rendering
+![Demo 1](/demos/demo_1.gif)
+
+### Stepping through x-y slices (pages)
+![Demo 2](/demos/demo_2.gif)
+
+
 ## Description
 The phantom volumes are cubes containing three orthoganl arrows corresponding to the 
 rows (1), columns (2), and pages (3) of the volume representative of MATLAB's indexing style. 
