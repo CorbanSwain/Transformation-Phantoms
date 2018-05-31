@@ -3,8 +3,8 @@
 different people or methods.* `Coordinate systems = 🙃`
 
 ## Description
-The phantom volume contains three orthoganl arrows corresponding to the rows (1), columns (2), and 
-pages (3) representative of MATLAB's indexing style. 
+The phantom volumes are cubes containing three orthoganl arrows corresponding to the 
+rows (1), columns (2), and pages (3) of the volume representative of MATLAB's indexing style. 
 * The arrows point in the direction of increasing index. 
 * Each of the arrows are 'annotated' with spherical beads: 
   * the row axis arrow is annotated with 1 bead, 
@@ -12,6 +12,9 @@ pages (3) representative of MATLAB's indexing style.
   * the pages axis arrow is annotated with 3 beads.
 
 ## Files
-Simple 100 X 100 X 100 pixel volume in both .tif and .mat formats.
-1. `axis_phantom.tif` is an 8 bit grayscale image
-1. `axis_phantom.mat is` contains a logical matrix named `A`
+Volumes are stored in both .tif and .mat formats.
+1. `.tif` files are 8 bit grayscale images
+1. `.mat` files contain a logical matrix named `A`
+
+The number before the file extension corresponds to the side length
+of the cubic volume in pixels.
