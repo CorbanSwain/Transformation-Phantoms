@@ -1,14 +1,15 @@
-# Axis Phantom Image
-*To be used in comparing rotation and translation operations*
+# Transformation Reference Images
+*To be used in comparing rotation and translation operations performed by 
+different people or methods.* `Coordinate systems = 🙃`
 
 ## Description
-Simple phantom volume in both .tif and .mat formats. The phantom volume 
-contains three arrows corresponding to the rows (1), columns (2), and 
+The phantom volume contains three arrows corresponding to the rows (1), columns (2), and 
 pages (3) representative of MATLAB's indexing style. Each of the arrows
 are 'annotated' with spherical beads: the row axis arrow is annotated with 
 1 bead, the column axis arrow is annotated with 2 beads, and the pages axis
-arrow is annotated with three beads.
+arrow is annotated with 3 beads.
 
 ## Files
-1. axis_phantom.tif is an 8 bit grayscale image
-1. axis_phantom.mat is contains a logical matrix named 'A'
+Simple phantom volume in both .tif and .mat formats.
+1. `axis_phantom.tif` is an 8 bit grayscale image
+1. `axis_phantom.mat is` contains a logical matrix named `A`
