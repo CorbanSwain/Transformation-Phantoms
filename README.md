@@ -18,7 +18,8 @@ rows (1), columns (2), and pages (3) of the volume representative of MATLAB's in
   * the pages axis arrow is annotated with 3 beads.
 
 ### `bead phantom`
-These phandton volumes are 5, ~4 px radius beads randomly scattered within the volume. 
+These phandton volumes contain five 4 px radius beads randomly scattered within the volume.
+The beads are at least 10 px from the border of the volume.
 
 ## Files
 Volumes are stored in both .tif and .mat formats.
