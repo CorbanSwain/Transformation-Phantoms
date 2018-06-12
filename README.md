@@ -1,6 +1,10 @@
 # Transformation Reference Images
 *To be used in comparing rotation and translation operations performed by 
-different people or methods.* `Coordinate systems = 🙃`
+different people or methods. ... because* `Coordinate systems = 🙃`
+
+<p align="center">
+  <img width="512" height="512" src="/demos/demo_1.gif">
+</p>
 
 ## Description
 ### `axis phantom`
